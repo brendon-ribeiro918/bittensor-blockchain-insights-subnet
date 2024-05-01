@@ -1,0 +1,9 @@
+#exclude folders
+contrib/
+ops/
+docs/
+.github/
+.git/
+.idea/
+.pytest_cache/
+.gitignore
